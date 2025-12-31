@@ -2,6 +2,8 @@
 
 Global Fireworks is a mini-plugin inspired by [fireworks.js.org](https://fireworks.js.org/), created by [crashmax-dev](https://github.com/crashmax-dev/fireworks-js/).
 
+![fireworks_2](assets/fireworks_2.gif)
+
 You can find all the information on his GitHub. I'm just an amplifier for this wonderful thing. It will run on your Obsidian desktop indefinitely.
 
 Install the repository and extract it to `yourVault/.obsidian/plugins/global-fireworks`. And then enable it from the `Community Plugins`. You can set different values in the plugin settings as you wish.
