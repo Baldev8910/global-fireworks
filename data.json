@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "acceleration": 1.05,
   "gravity": 1.5,
   "opacity": 0.5,
