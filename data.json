@@ -1,0 +1,19 @@
+{
+  "enabled": false,
+  "acceleration": 1.05,
+  "gravity": 1.5,
+  "opacity": 0.5,
+  "intensity": 15,
+  "particles": 50,
+  "flickering": 50,
+  "traceLength": 3,
+  "traceSpeed": 5,
+  "explosion": 5,
+  "lineWidth": 2,
+  "brightnessMin": 50,
+  "brightnessMax": 80,
+  "delayMin": 100,
+  "delayMax": 150,
+  "rocketsMin": 50,
+  "rocketsMax": 100
+}

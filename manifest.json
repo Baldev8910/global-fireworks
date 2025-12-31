@@ -1,0 +1,9 @@
+{
+  "id": "global-fireworks",
+  "name": "Global Fireworks",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Global fireworks overlay for the entire Obsidian workspace",
+  "author": "Baldev8910",
+  "isDesktopOnly": true
+}
